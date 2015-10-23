@@ -1,0 +1,13 @@
+Esta versión 3 contiene:
+
+La versión funcional con código optimizado con validaciones y limpieza de código comentado.
+
+La DB sin relación, tiene datos basura pero esta funcionando correctamente.
+
+Falta:
+
+1. Relacionar la base de datos.
+2. Limpiar código comentado en el modelo.
+3. Realizar vaidación al principio para que el sistema borre los datos almacenados en la db, esto sucede cuando el usuario da click en el botón de regreso.
+4. Aumento de tablas nuevas para la siguiente etapa del desarrollo
+
